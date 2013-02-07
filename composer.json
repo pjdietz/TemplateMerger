@@ -1,0 +1,6 @@
+{
+    "name":"pjdietz/template-merger",
+    "autoload": {
+        "psr-0": { "pjdietz\\TemplateMerger": "src/" }
+    }
+}
